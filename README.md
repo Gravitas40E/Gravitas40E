@@ -1,11 +1,37 @@
-- 👋 Hi, I’m @blitzmanianc
-- 👀 I've caught the programming bug, and I'm really into Python and JavaScript right now. It's all about learning and growing for me at the moment.
-- 🌱 I'm all ears for collaboration, especially if it involves diving into the world of coding.
-- 💞️ I aim to contribute and learn from fellow professionals in the community.
-- 🖥️ Currently pursuing a degree in software engineering.
+# 👋 Hey there, I’m @blitzmanianc!  
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+🚀 A budding **software engineer** with a passion for **coding, learning, and creating**.  
+💡 Skilled in **Python**, **JavaScript**, **C programming**, **Java**, **Godot**, and **GDScript**—always looking to push my boundaries!  
+
+---
+
+### 🌟 About Me  
+- 🔍 Exploring the limitless potential of programming and **game development**.  
+- 🌱 Currently diving deeper into **software engineering** while pursuing my degree.  
+- 🤝 Open to collaborations in **game development**, **software projects**, or anything creative.  
+- 💞 Aiming to contribute, learn, and grow within the amazing tech community.  
+
+---
+
+### 🛠️ Tools & Skills  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![C Programming](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)  
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godot-engine&logoColor=white)  
+![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat&logo=godot-engine&logoColor=white)  
+
+---
+
+### 📬 Let’s Connect  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/blitzmanianc)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=web&logoColor=white)](https://your-portfolio-link.com)  
+
+---
+
+### 🎮 Let’s Build Together!  
+![Coding GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)  
 
 
 <!---
