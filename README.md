@@ -1,6 +1,6 @@
 # 👋 Hey there, I’m Edwin!  
 
-🚀 A budding **software engineer** with a passion for **coding, learning, and creating**.  
+🚀 A budding **software engineering student** with a passion for **coding, learning, and creating**.  
 💡 Skilled in **Python**, **JavaScript**, **C programming**, **Java**, **Godot**, and **GDScript**—always looking to push my boundaries!  
 
 ---
