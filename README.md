@@ -25,7 +25,7 @@
 ---
 
 ### 🎮 Let’s Build Together!  
-![Coding GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)  
+![Smolverse GIF](https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif)   
 
 
 <!---
