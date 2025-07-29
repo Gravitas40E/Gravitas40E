@@ -1,10 +1,10 @@
 # 👋 Hey there, I’m Edwin!  
 
-🚀 A software engineering student who dreams in logic, designs in pixels, and thinks in revolutions.
-🧠 I’m all about coding ideas that outlast their hype—whether it’s Godot scripts, backend logic, or game mechanics.
-🛠 Currently building games and experimenting with systems that break the usual mold.
-🕹 Open to collabs in game dev, AI, or anything that sounds slightly insane but wildly cool.
-🔥 I believe code can start revolutions. Let’s build something people remember.
+- 🚀 A software engineering student who dreams in logic, designs in pixels, and thinks in revolutions.
+- 🧠 I’m all about coding ideas that outlast their hype—whether it’s Godot scripts, backend logic, or game mechanics.
+- 🛠 Currently building games and experimenting with systems that break the usual mold.
+- 🕹 Open to collabs in game dev, AI, or anything that sounds slightly insane but wildly cool.
+- 🔥 I believe code can start revolutions. Let’s build something people remember.
 
 ---
 
