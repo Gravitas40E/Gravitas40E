@@ -15,7 +15,7 @@
 - Godot projects
 - software that feels alive
 
-💡 I like projects that mix logic with atmosphere — the kind that people remember long after they close the program.
+💡 I like projects that mix logic with atmosphere the kind that people remember long after they close the program.
 
 ---
 
