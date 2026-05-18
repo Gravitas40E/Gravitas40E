@@ -1,18 +1,33 @@
-# 👋 Hey there, I’m Edwin!  
+# 👋 Hey there, I’m Edwin!
 
-- 🚀 A software engineering student who is into logic and designs in pixels.
-- 🧠 I’m all about coding ideas that outlast their hype whether it’s Godot scripts, backend logic, or game mechanics.
-- 🛠 Currently building games and experimenting with systems that break the usual mold.
-- 🕹 Open to collabs in game dev, AI, or anything that sounds slightly insane but wildly cool.
-- 🔥 I believe code can start revolutions. Let’s build something people remember.
+🚀 Software engineering student building systems, games, and experiments.
+
+🧠 Interested in:
+- game systems
+- AI behavior
+- emergent simulations
+- backend logic
+- interactive experiences
+
+🛠 Currently building:
+- experimental game mechanics
+- artificial ecosystem simulations
+- Godot projects
+- software that feels alive
+
+💡 I like projects that mix logic with atmosphere — the kind that people remember long after they close the program.
 
 ---
 
-### 🌟 About Me  
-- 🔍 Exploring the limitless potential of programming and **game development**.  
-- 🌱 Currently diving deeper into **software engineering** while pursuing my degree.  
-- 🤝 Open to collaborations in **game development**, **software projects**, or anything creative.  
-- 💞 Aiming to contribute, learn, and grow within the amazing tech community.  
+### 🌌 Current Focus
+- Software engineering
+- Game development
+- Simulation systems
+- Creative coding
+
+---
+
+> “Every system starts as an idea someone was stubborn enough to build.”
 
 ---
 
