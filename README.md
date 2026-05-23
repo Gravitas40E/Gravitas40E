@@ -31,8 +31,28 @@
 
 ---
 
-### 🛠️ Tools & Skills  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  ![C Programming](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)  ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godot-engine&logoColor=white)  ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat&logo=godot-engine&logoColor=white)  
+## ⚙️ Tools & Technologies
+
+### Languages
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=A8B9CC)
+![GDScript](https://img.shields.io/badge/GDScript-0D1117?style=for-the-badge&logo=godot-engine&logoColor=478CBF)
+
+### Frameworks & Engines
+![Godot](https://img.shields.io/badge/Godot-0D1117?style=for-the-badge&logo=godot-engine&logoColor=478CBF)
+![CustomTkinter](https://img.shields.io/badge/CustomTkinter-0D1117?style=for-the-badge&logo=python&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-0D1117?style=for-the-badge&logo=ollama&logoColor=white)
+
+### Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
+
+### Focus Areas
+`AI Systems` • `Automation` • `Game Development` • `Interactive UI Design` • `Local AI Integration` • `System Experimentation`
 
 ---
 
