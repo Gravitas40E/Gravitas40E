@@ -1,35 +1,30 @@
-# 👋 Hey there, I’m Edwin!  
+# 👋 Hey, I’m Edwin
 
-🚀 Software engineering student building systems, games, and experiments.
+🚀 Software Engineering student exploring intelligent systems, game development, and interactive software design.
 
-🧠 Interested in:
-- game systems
-- AI behavior
-- emergent simulations
-- backend logic
-- interactive experiences
+I enjoy building projects that combine logic, experimentation, and atmosphere — from AI assistants and simulation systems to gameplay mechanics and responsive interfaces.
 
-🛠 Currently building:
-- experimental game mechanics
-- artificial ecosystem simulations
-- Godot projects
-- software that feels alive
+### 🧠 Interests
+- AI systems & intelligent behavior
+- Game architecture & mechanics
+- Emergent simulations
+- Automation & backend logic
+- Interactive UI/UX systems
 
-💡 I like projects that mix logic with atmosphere the kind that people remember long after they close the program.
-
----
+### ⚙️ Currently Building
+- A local-first JARVIS-inspired AI assistant
+- Experimental Godot game systems
+- Artificial ecosystem simulations
+- Interactive software experiments
 
 ### 🌌 Current Focus
-- Software engineering
-- Game development
-- Simulation systems
-- Creative coding
+- Software Engineering
+- Intelligent Interfaces
+- Game Development
+- System Design
+- Creative Coding
 
----
-
-> “Every system starts as an idea someone was stubborn enough to build.”
-
----
+> Building systems that feel alive to interact with.
 
 ## ⚙️ Tools & Technologies
 
