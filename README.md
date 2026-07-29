@@ -1,15 +1,91 @@
-# 💫 About Me:
-# 🔭 **I'm currently working on**<br>- 🤖 Local AI assistants<br>- 🎮 Godot game systems<br>- 💻 Software experiments<br><br>👯 **I'm looking to collaborate on**<br>- 🤖 AI applications<br>- 🎮 Game development<br>- 🌍 Open-source projects<br><br>🤝 **I'm looking for help with**<br>- 🏗️ Software architecture<br>- 🧠 Local LLMs<br>- ⚡ Performance optimization<br><br>🌱 **I'm currently learning**<br>- 📚 Software Engineering<br>- 🏛️ System Design<br>- 🤖 Artificial Intelligence<br>- 🎮 Game Development<br><br>💬 **Ask me about**<br>- 🐍 Python & Java<br>- ⚙️ Backend development<br>- 🤖 AI & Automation<br>- 🌳 Godot<br><br>⚡ **Fun fact**<br>- 🚀 I prefer learning by building projects instead of following tutorials.
+# 💫 About Me
 
+🔭 **I'm currently working on**
+- 🤖 A local-first AI assistant
+- 🎮 Gameplay systems with Godot
+- 🌿 AI & simulation experiments
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/vtvp5pqaW) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/edw.7n_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/edwin-eldho-k-955369296) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@edwineldho17) 
+👯 **I'm looking to collaborate on**
+- 🤖 AI-powered applications
+- 🎮 Game development
+- 🌍 Open-source projects
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![P5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Gravitas40E&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Gravitas40E&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Gravitas40E&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+🤝 **I'm looking for help with**
+- 🏗️ Software architecture
+- 🧠 Local LLM integration
+- ⚡ Performance optimization
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🌱 **I'm currently learning**
+- 📚 Software Engineering
+- 🏛️ System Design
+- 🤖 Artificial Intelligence
+- 🎮 Game Development
+
+💬 **Ask me about**
+- 🐍 Python, Java & C
+- ⚙️ Backend development
+- 🤖 AI & automation
+- 🌳 Godot Engine
+
+⚡ **Fun fact**
+- 🚀 I enjoy learning by building projects rather than following tutorials.
+
+---
+
+## 🌐 Socials
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/vtvp5pqaW)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/edwin-eldho-k-955369296)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/edw.7n_)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@edwineldho17)
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+### Frameworks & Tools
+
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### AI & Data
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+---
+
+# 🚀 Featured Projects
+
+- 🤖 **JARVIS** – A local-first AI assistant with memory, automation, and streaming responses.
+- 🎮 **Godot Experiments** – Interactive gameplay systems and mechanics.
+- 🌿 **Artificial Ecosystems** – Simulating emergent behaviors through code.
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.shion.dev/api?username=Gravitas40E&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://streak-stats.demolab.com/?user=Gravitas40E&theme=github-dark&hide_border=true)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Gravitas40E&theme=github_dark&hide_border=true&layout=compact)
+
+---
+
+> *"Building intelligent systems, interactive software, and games where code creates experiences."*
